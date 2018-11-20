@@ -16,7 +16,8 @@
     3. .raw & .flac are the only audio file accepted for text transalation by the API.
     4. Works correctly for first time in game engine after that errors occur, don't know why.
     
-<b> Pip commands </b>
-  pip install PyAudio
-  pip install google-cloud-speech
-  pip install google-cloud-language
+<b>Pip commands</b>
+
+    pip install PyAudio
+    pip install google-cloud-speech
+    pip install google-cloud-language
