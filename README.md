@@ -5,7 +5,7 @@
     1. Install blender 2.79.
     2. Set Path variable for python distribution present inside blender (\Your installation directory\Blender Foundation\Blender\2.79\python\bin). Install pip for this python distribution from here and set path variable also.
     3. Install and setup ffmpeg from https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg.
-    4. Install python dependecies using pip: pyaudio, google-cloud-speech, google-cloud-language etc.
+    4. Install python dependecies using pip: pyaudio, google-cloud-speech, google-cloud-language, SpeechRecognition.
     5. Congifure API Key for google cloud services. You might have to create a new project and enable google speech and language api in googlecloud console, then create and download a json credential file and set "json_key_file" in startup.py to the path to json credential file.
     6. Run .blend file inside model folder.
 
